@@ -1,54 +1,42 @@
-<img 
-  src="https://i.imgur.com/oLtDp7m.png"
-  alt="Banner da escola Alura"
-/>
+<h1 align="center">📚 alura</h1>
 
-<br />
+<br>
 
-# O que é a Alura?
+<h3 align="center">Projects from the Alura courses I took while learning to program.<br>Mostly front-end and JavaScript, kept as they were written</h3>
 
-A Alura é uma **escola digital de tecnologia** que surgiu em 2013 buscando ajudar profissionais e estudantes de tecnologia disponibilizando uma grande variedade de cursos e formações na área. Hoje, a escola é referência no Brazil e outros países devido a sua qualidade e diversidade, contando com cerca de 1500 cursos e mais de 500 mil usuários.
+<p align="center">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/Petri-Hub/alura" /> <a href="https://github.com/Petri-Hub/alura/commits/master"><img alt="Last commit" src="https://img.shields.io/github/last-commit/Petri-Hub/alura" /></a>
+</p>
 
-<br />
+<br>
 
-# Que tipo de cursos são disponibilizados?
+## About
 
-- Front-End 🖥️
-- Back-End 🌐
-- Banco de Dados 📦
-- Mobile 📱
-- UI/UX 🖌️
-- Data Science 📈
-- Inteligência Artificial 🤖
-- DevOps ⚙️
-- Gestão 🏢
+> **TL;DR:** one folder per course, holding the project that course built. After technical school I studied here for six months, up to six hours a day, to land a first job before starting university, and the job came at the end of it. Most of it is from 2021 and 2022, and none of it was cleaned up afterwards.
 
-<br />
+## What's inside
 
-# O que é guardado neste respositório?
+| Area | Courses |
+|---|---|
+| **Fundamentals** | Programming logic I and II · C I, II and III · HTTP · Web accessibility · Git and GitHub |
+| **HTML and CSS** | HTML and CSS, parts 1 to 4 · Flexbox · Grid · Responsive layouts · CSS architecture · SASS · Tailwind · SVG animation |
+| **JavaScript** | First steps · Programming for the web · DOM · Dynamic pages · Object orientation · Interfaces and inheritance · MVC, Proxy and Factory · Browser design patterns · Async CRUD · Regex · Form validation · Browser storage |
+| **TypeScript** | TypeScript I, II and III |
+| **React** | The library · Function components · Hooks and context · Component lifecycle · Router · Styled Components · With TypeScript · Testing components · Test automation · React Native |
+| **Node.js** | API with Express and MongoDB · Sequelize ORM I and II · Error handling and pagination · WebSockets · Publishing a library |
+| **Next.js** | Next.js I · Next.js tour |
+| **Others** | SQL with MySQL · jQuery I · Notes from articles and podcasts |
 
-Neste repositório há todos os arquivos de cursos realizados através da plataforma [Alura](https://www.alura.com.br/). Cada pasta dentro deste repositório **representa um curso** da área de tecnologia **concluído** na plataforma.
+## Technologies
 
-<br />
-
-# O que eu estudei?
-
-- Cursos de Lógica de Programação
-- Cursos de Front-End
-- Cursos de Javascript
-- Cursos do Framework React 
-- Cursos de Typescript
-- Cursos de Back-End
-- Cursos de NodeJS
-- Cursos de Bancos de Dados
-- Cursos de MongoDB
-- Cursos de MySQL
-- Cursos da linguagem C
-
-<br />
-
-# Onde posso ver seu certificado?
-
-Você pode ver minhas formações e cursos concluídos através do link abaixo. Para uma melhor visualização recomendo clicar no botão de imprimir para vê-lo formatado corretamente 😉.
-
-[Meu certificado](https://cursos.alura.com.br/user/fernando-petri01/fullCertificate/a40b91f787152bc77b7581c3a89092e7)
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/html5" width="48" height="48" alt="HTML" /><br>HTML</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br>CSS</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/sass" width="48" height="48" alt="Sass" /><br>Sass</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/javascript" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/typescript" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/react" width="48" height="48" alt="React" /><br>React</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/nodedotjs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+  </tr>
+</table>
